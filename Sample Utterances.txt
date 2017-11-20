@@ -1,0 +1,9 @@
+FlightStatus estimated departure time for {Airline} flight {FlightNumber}
+FlightStatus what is the estimated departure time for {Airline} flight {FlightNumber}
+FlightStatus when will {Airline} flight {FlightNumber} leave
+FlightStatus when is {Airline} flight {FlightNumber} leaving
+FlightStatus at what time is {Airline} flight {FlightNumber} leaving
+FlightStatus at what time will {Airline} flight {FlightNumber} leave
+FlightStatus {Airline} {FlightNumber}
+FlightStatus {Airline} flight {FlightNumber}
+FlightStatus {Airline} number {FlightNumber}

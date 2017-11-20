@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Airline",
+          "type": "AMAZON.Airline"
+        },
+        {
+          "name": "FlightNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "FlightStatus"
+    },
+    {
+      "intent": "LaunchRequest"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
